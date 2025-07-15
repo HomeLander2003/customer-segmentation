@@ -1,0 +1,9 @@
+This is the core for marketing strategy segmentation. For example:
+
+Cluster 	SegmentName	                Marketing Idea
+
+0	Young High Spender Males	Sports gear, tech gadgets, exclusive male-oriented promotions
+1	Older Moderate Income Males	Retirement offers, health plans, conservative loyalty perks
+2	Middle-aged Balanced Females	Mid-range lifestyle products, wellness, family offers
+3	Young Rich Female Spenders	Luxury fashion, influencer-based campaigns, early access deals
+4	Middle-aged Wealthy Cautious	Premium bundles, investment programs, exclusive membership
