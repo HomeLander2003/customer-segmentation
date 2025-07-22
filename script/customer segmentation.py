@@ -23,7 +23,7 @@ class EDA:
 
     def clean(self):
         try:
-            file_path = r"D:\Bilal folder\internship\Mall_Customers.csv"
+            file_path = r"Mall_Customers.csv"# add file path according to your file location
             
             if os.path.isfile(file_path):
                 self.file = pd.read_csv(file_path)
